@@ -1,7 +1,7 @@
 # Growth Engineers Toolkit
-A Growth Engineers' Toolkit, helping in spotting technical SEO issues, and running other growth activities.
+A Growth Engineers' Toolkit, helping in spotting technical SEO issues and running other growth activities.
 
-[Download the Chrome Extension](https://chromewebstore.google.com/detail/growth-toolkit/klbjmnodglnjjogehfpjabpbbcligdio?authuser=0&hl=en)
+[Download the Chrome Extension](https://chromewebstore.google.com/detail/growth-toolkit-technical/klbjmnodglnjjogehfpjabpbbcligdio)
 
 ## 🚀 Benefits
 - Meta Tag Issues: Shows all the meta tags and highlights the ones with issues.
